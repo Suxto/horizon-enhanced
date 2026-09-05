@@ -1,7 +1,7 @@
 schema_version = 1
 id = "com.github.Suxto.horizon-enhanced"
 name = "Horizon Enhanced"
-version = "0.1.6"
+version = "0.1.7"
 authors = ["Suxto <Suxto@outlook.com>"]
 description = "Horizon theme for Zed, inspired by Horizon theme on VSCode."
 repository = "https://github.com/Suxto/horizon-enhanced"
