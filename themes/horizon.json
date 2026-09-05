@@ -174,8 +174,8 @@
             "font_weight": null
           },
           "constant.comment.todo": {
-            "color": "#D8C99A",
-            "background_color": "#8A7B4A2E",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -204,8 +204,8 @@
             "font_weight": null
           },
           "string.comment.info": {
-            "color": "#D8C99A",
-            "background_color": "#8A7B4A2E",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -234,8 +234,8 @@
             "font_weight": null
           },
           "property.comment.error": {
-            "color": "#D8C99A",
-            "background_color": "#8A7B4A2E",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -264,8 +264,8 @@
             "font_weight": null
           },
           "keyword.comment.warn": {
-            "color": "#D8C99A",
-            "background_color": "#8A7B4A2E",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -608,8 +608,8 @@
             "font_weight": null
           },
           "constant.comment.todo": {
-            "color": "#705A00",
-            "background_color": "#8A7B4A26",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -638,8 +638,8 @@
             "font_weight": null
           },
           "string.comment.info": {
-            "color": "#705A00",
-            "background_color": "#8A7B4A26",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -668,8 +668,8 @@
             "font_weight": null
           },
           "property.comment.error": {
-            "color": "#705A00",
-            "background_color": "#8A7B4A26",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
@@ -698,8 +698,8 @@
             "font_weight": null
           },
           "keyword.comment.warn": {
-            "color": "#705A00",
-            "background_color": "#8A7B4A26",
+            "color": "#1C1E26",
+            "background_color": "#FFD866CC",
             "font_style": null,
             "font_weight": 700
           },
