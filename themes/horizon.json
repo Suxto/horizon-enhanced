@@ -168,7 +168,7 @@
             "font_weight": null
           },
           "constant": {
-            "color": "#F09483E6",
+            "color": "#E95678E6",
             "background_color": null,
             "font_style": null,
             "font_weight": null
@@ -286,6 +286,18 @@
             "background_color": null,
             "font_style": null,
             "font_weight": null
+          },
+          "type.definition": {
+            "color": "#E95678E6",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#B877DB",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": 700
           },
           "variable": {
             "color": "#E95678E6",
@@ -582,6 +594,18 @@
             "background_color": null,
             "font_style": null,
             "font_weight": null
+          },
+          "type.definition": {
+            "color": "#DC3318",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": null
+          },
+          "type.builtin": {
+            "color": "#8237B4",
+            "background_color": null,
+            "font_style": null,
+            "font_weight": 700
           },
           "variable": {
             "color": "#DA103F",
