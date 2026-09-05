@@ -141,7 +141,13 @@
         "warning": "#27D797B3",
         "warning.background": "#ab9403",
         "warning.border": null,
-        "players": [],
+        "players": [
+          {
+            "cursor": "#E95378",
+            "background": "#E95378",
+            "selection": "#2E303EB3"
+          }
+        ],
         "syntax": {
           "string": {
             "color": "#F09483E6",
@@ -452,7 +458,13 @@
         "warning": "#1EB980B3",
         "warning.background": null,
         "warning.border": null,
-        "players": [],
+        "players": [
+          {
+            "cursor": "#E84A72",
+            "background": "#E84A72",
+            "selection": "#F9CBBE80"
+          }
+        ],
         "syntax": {
           "string": {
             "color": "#FF7132FF"
